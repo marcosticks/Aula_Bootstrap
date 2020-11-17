@@ -1,0 +1,46 @@
+body {
+    font-family:"Montserrat";
+}
+
+li {
+    margin-left: 20px;
+}
+
+.margin {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.navbar {
+    background-color: #2840ce;
+}
+
+.margem-nav {
+    padding: 10px;
+}
+
+.row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.sobre-mim-texto-tamanho {
+    font-size: 30px;
+}
+
+.título-portifólio {
+    color: white;
+}
+
+.portifólio {
+    background-color: #2840ce;
+    color: white;
+}
+
+.margem-texto-portifólio {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top:50px;
+}
